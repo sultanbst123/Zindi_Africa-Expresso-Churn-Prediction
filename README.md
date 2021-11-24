@@ -7,8 +7,9 @@ Solusi ini akan membantu Expresso untuk melayani pelanggan mereka dengan lebih b
 
 Melihat palanggan yang churn & tidak chutn, dengan mengunakan Catboost & LGBM karena bisa mempelajari feature category. 
 
-Untuk lebih lanjut silahkan liat notebook yang saya bikin 
+Untuk lebih lanjut silahkan liat notebook yang saya bikin.
 
+https://github.com/sultanbst123/Zindi_Africa-Expresso-Churn-Prediction/blob/main/Churn_espresso.ipynb
 
 ## Dataset & Information
 
